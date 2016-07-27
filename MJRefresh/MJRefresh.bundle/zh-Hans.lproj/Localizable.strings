@@ -2,11 +2,11 @@
 "MJRefreshHeaderPullingText" = "Release to refresh";
 "MJRefreshHeaderRefreshingText" = "Loading...";
 
-"MJRefreshAutoFooterIdleText" = "Tap or pull up to refresh"";
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to refresh";
 "MJRefreshAutoFooterRefreshingText" = "Loading more...";
 "MJRefreshAutoFooterNoMoreDataText" = "Loading complete";
 
-"MJRefreshBackFooterIdleText" = "Pull up to refresh";
+"MJRefreshBackFooterIdleText" = "Pull up to load more";
 "MJRefreshBackFooterPullingText" = "Release to load";
 "MJRefreshBackFooterRefreshingText" = "Loading more...";
 "MJRefreshBackFooterNoMoreDataText" = "Loading complete";
