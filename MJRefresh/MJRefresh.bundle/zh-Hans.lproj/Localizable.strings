@@ -1,15 +1,15 @@
-"MJRefreshHeaderIdleText" = "下拉可以刷新";
-"MJRefreshHeaderPullingText" = "松开立即刷新";
-"MJRefreshHeaderRefreshingText" = "正在刷新数据中...";
+"MJRefreshHeaderIdleText" = "Pull to refresh";
+"MJRefreshHeaderPullingText" = "Release to refresh";
+"MJRefreshHeaderRefreshingText" = "Loading...";
 
-"MJRefreshAutoFooterIdleText" = "点击或上拉加载更多";
-"MJRefreshAutoFooterRefreshingText" = "正在加载更多的数据...";
-"MJRefreshAutoFooterNoMoreDataText" = "已经全部加载完毕";
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to refresh"";
+"MJRefreshAutoFooterRefreshingText" = "Loading more...";
+"MJRefreshAutoFooterNoMoreDataText" = "Loading complete";
 
-"MJRefreshBackFooterIdleText" = "上拉可以加载更多";
-"MJRefreshBackFooterPullingText" = "松开立即加载更多";
-"MJRefreshBackFooterRefreshingText" = "正在加载更多的数据...";
-"MJRefreshBackFooterNoMoreDataText" = "已经全部加载完毕";
+"MJRefreshBackFooterIdleText" = "Pull up to refresh";
+"MJRefreshBackFooterPullingText" = "Release to load";
+"MJRefreshBackFooterRefreshingText" = "Loading more...";
+"MJRefreshBackFooterNoMoreDataText" = "Loading complete";
 
 "MJRefreshHeaderLastTimeText" = "Last updated：";
 "MJRefreshHeaderDateTodayText" = "Today";
